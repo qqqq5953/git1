@@ -1,1 +1,1 @@
-console.log('kyc')
+console.log('test')
